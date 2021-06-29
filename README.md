@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+⚡ Working on AriesWeb, Fabric mods, and other fun projects!
+🌱 I'm learning Java, C++, TypeScript!
+📣 I know a little bit of Python, LuaU, and HTML!
+📫 Reach me by adding my discord: ARES!#0001
+🔥  Want to play with me? Add my discord and we can have a nice round of minecraft or roblox.
+😄 InviteLogger Translator and Support Team, Main voter of bitcoin.org translation, Ex Discord Bot Dev
+
 <!--
 **aresociety/aresociety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
