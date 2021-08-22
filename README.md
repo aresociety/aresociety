@@ -28,6 +28,7 @@
 ### My Stats:
 
 ![Arlyticals's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresociety&show_icons=true&theme=tokyonight)
+<br />
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=aresociety&langs_count=10&theme=tokyonight)
 
 [website]: https://arlytical.neocities.org/
