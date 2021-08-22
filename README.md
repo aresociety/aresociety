@@ -27,7 +27,7 @@
 
 ### My Stats:
 
-![Arlyticals's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresociety)
+![Arlyticals's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresociety&show_icons=true&theme=tokyonight)
 
 [website]: https://arlytical.neocities.org/
 [rickroll]: https://www.youtube.com/watch?v=xvFZjo5PgG0
