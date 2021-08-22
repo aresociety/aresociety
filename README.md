@@ -25,7 +25,7 @@
 <br />
 <br />
 
-[![Arlyticals's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresociety)] (https://github.com/aresociety)
+![Arlyticals's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresociety)
 
 [website]: https://arlytical.neocities.org/
 [rickroll]: https://www.youtube.com/watch?v=xvFZjo5PgG0
