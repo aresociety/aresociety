@@ -25,6 +25,8 @@
 <br />
 <br />
 
+### My Stats:
+
 ![Arlyticals's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresociety)
 
 [website]: https://arlytical.neocities.org/
