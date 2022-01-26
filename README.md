@@ -15,6 +15,7 @@ aresociety@github
     Languages: Python, Node.js, PHP
     Discord: 581470718387159040
     mailto: aesthetic@gtfcy37qyzor7kb6blz2buwuu5u7qjkycasjdf3yaslibkbyhsxub4yd.onion
+    donate: 0x1f1b37D620c38396F8Ff40963221BE8662389CD6
 ```
 
 <p align="left">
