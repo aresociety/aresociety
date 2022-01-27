@@ -26,4 +26,5 @@ cens6r@github
   <img alt="#c9594d" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
   <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
   <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
+  ![](https://komarev.com/ghpvc/?username=cens6r&color=6699c&style=flat-square&label=Profile+Views)
 </p>
