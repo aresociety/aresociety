@@ -13,7 +13,7 @@ cens6r@github
     Terminal: Terminus
     CPU : intel i5 9900kf
     Alias: parsel, ares
-    Languages: Python, Node.js, PHP
+    Languages: Python, Go, Node.JS, PHP
     Discord: 581470718387159040
     MailTo: aesthetic@gtfcy37qyzor7kb6blz2buwuu5u7qjkycasjdf3yaslibkbyhsxub4yd.onion
     DonateETH: 0x1f1b37D620c38396F8Ff40963221BE8662389CD6
